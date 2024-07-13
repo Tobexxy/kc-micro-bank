@@ -126,7 +126,7 @@
 }
 .testimonialSection01{
 	position: relative;
-	padding: 0 0 80px;
+	padding: 90px 0 80px;
 }
 .testimonialSection01 .secTitle{
 	margin-bottom: 40px;
@@ -292,7 +292,7 @@
 }
 .appStore{
 	position: relative;
-	background: url(../images/bg/10.jpg) no-repeat center center / cover;
+	background: url(./Group\ 2\ \(1\).png) no-repeat center center / cover;
 	padding: 142px 0 71px;
 }
 .appStore .secTitle{

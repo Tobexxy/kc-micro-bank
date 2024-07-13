@@ -1,7 +1,7 @@
 <?php
 parse_str($_POST['form_data'], $form);
 
-define('TO_EMAIL', 'universalloner533@gmail.com');
+define('TO_EMAIL', 'tobiogunleye533@gmail.com');
 define('SUBJECT', 'Quera User Query');
 define('FROM_EMAIL', $form['con_email']);
 
