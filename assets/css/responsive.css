@@ -324,7 +324,7 @@
 	}
 	.clientLogo01 .secTitle{
 		text-align: center;
-		margin: 0 0 30px;
+		/* margin: 0 0 30px; */
 	}
 	.icon_box_02 p br{
 		display: none;
@@ -913,7 +913,7 @@
 		padding: 8px 20px 0;
 	}
 	header .menuToggler{
-		margin-right: 0;
+		margin-right: 10px;
 	}
 	.topbar02 .justify-content-end{
 		justify-content: center !important;
