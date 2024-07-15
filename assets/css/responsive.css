@@ -393,7 +393,11 @@
 	}
 	.aboutSection03 .secDesc, .comCon .secDesc{
 		margin-right: 0;
+		font-size: 31px;
+		line-height: 38px;
+		font-weight: 350;
 	}
+
 	.chooseSection03 .pdAcc{
 		padding-right: 15px;
 	}
@@ -626,16 +630,29 @@
     .abpd .secTitle, .hisCon .secTitle, .rlsContent h2, 
     .aboutSection03 .secTitle, .chooseSection03 .secTitle,
     .absCon .secTitle, .worCon .secTitle, .comCon .secTitle, 
-    .appStore .secTitle, .portfolioSection02 .secTitle{
+    .portfolioSection02 .secTitle{
+    	font-size: 66px;
+    	line-height: 82px;
+    }
+
+	.appStore .secTitle{
     	font-size: 36px;
     	line-height: 48px;
     }
+
+	.appStore{
+    	padding: 47px 0 47px;
+    }
+
     .filter_menu{
 		margin: 0 0 50px;
 		justify-content: flex-start !important;
 	}
 	.aboutSection03 .absThumb{
 		margin: 30px 0 0;
+	}
+	.aboutSection03 {
+		padding: 13px 0;
 	}
 	.folioSlider02.owl-carousel .owl-nav{
 		float: left;
