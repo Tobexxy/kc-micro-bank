@@ -485,7 +485,8 @@
 .chooseSection03 .pdAcc{
 	padding-left: 15px;
 	padding-right: 60px;
-    padding-top: 53px;
+    padding-top: 11px;
+	/* padding-top: 53px; */
 }
 .chooseSection03 .quAccordion .card{
 	-webkit-box-shadow: 0px 10px 34px 0px rgba(18, 21, 24, 0.05);
@@ -578,7 +579,7 @@
 .abcs01{
 	position: relative;
 	background: #fff;
-	padding: 120px 0;
+	padding: -40px 0;
 }
 .abcs01:after{
 	display: none;
