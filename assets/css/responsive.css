@@ -635,6 +635,10 @@
     	font-size: 66px;
     	line-height: 82px;
     }
+	h2.secTitle.hy {
+        font-size: 47px;
+        line-height: 56px;
+    }
 
 	.appStore .secTitle{
     	font-size: 36px;
@@ -875,6 +879,7 @@
 	}
 	.marqueeText h2{
 		font-size: 30px;
+		/* line-height: 35px; */
 	}
 	.ctaSection .text-right {
 		margin-top: 25px;
